@@ -1,0 +1,17 @@
+🛒 E-Commerce Website
+
+A simple, responsive e-commerce website built using HTML, CSS, and JavaScript. Users can browse products, add them to the cart, and view a dynamic cart summary — all in the browser using client-side storage.
+
+🚀 Features
+
+🛍 Product listing with images and prices
+🛒 Add to cart and remove from cart
+🧾 Cart total calculation
+💾 Cart data stored using JavaScript (in-memory or localStorage)
+📱 Fully responsive layout
+
+
+🛠 Tech Stack
+HTML – Structure and content
+CSS – Styling and responsive design
+JavaScript – Dynamic interactions and cart functionality
